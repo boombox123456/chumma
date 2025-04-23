@@ -29,6 +29,6 @@ yesBtn.addEventListener("click", () => {
 
 const nextBtn = document.getElementById("go-next-btn");
 nextBtn.addEventListener("click", () => {
-  window.location.href = "index.html"; // Change this to your next HTML file name
+  window.location.href = "index2.html"; // Change this to your next HTML file name
 });
 
